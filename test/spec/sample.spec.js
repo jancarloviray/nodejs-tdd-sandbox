@@ -9,7 +9,7 @@ describe('test',function(){
 		(function(){
 			throw new Error();
 		}).should.throw(Error);
-	})
+	});
 });
 
 describe('TDDSandbox',function(){
@@ -34,6 +34,6 @@ describe('TDDSandbox',function(){
 			var spy = sinon.spy(sandbox,'_privateFunc');
 			sandbox.init();
 			spy.called.should.be.true;
-		})
-	})
-})
+		});
+	});
+});
