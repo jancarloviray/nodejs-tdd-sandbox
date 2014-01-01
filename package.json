@@ -4,7 +4,7 @@
   "description": "TDD-sandbox. If you want to practice your TDD without the whole hassle of installing frameworks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "source start_karma.sh"
   },
   "repository": {
     "type": "git",
@@ -36,6 +36,7 @@
     "mocha": "~1.16.2",
     "chai": "~1.8.1",
     "sinon": "~1.7.3",
-    "karma-mocha": "~0.1.1"
+    "karma-mocha": "~0.1.1",
+    "testem": "~0.6.2"
   }
 }
