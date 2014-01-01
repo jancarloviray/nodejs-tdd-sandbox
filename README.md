@@ -6,7 +6,8 @@ Sandbox for quick TDD practice. Easy. Quick. Painless. Uses Mocha, Chai, Sinon a
 
 **DEFAULT** `npm test`
 
-**TESTEM** source start_testem.sh
-**MOCHA** source start_mocha.sh
+**TESTEM** `source start_testem.sh`
+
+**MOCHA** `source start_mocha.sh`
 
 By [Jan Carlo Viray](http://www.jancarloviray.com)
