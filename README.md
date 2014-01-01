@@ -9,6 +9,9 @@ If you use *testem*, all files will be added globally and there is no need to do
 
 If you would like to test with mocha, you will need to `require` all depenencies. At this point, Mocha here is not setup to do DOM-available testing. If you would like to test DOM, client-side scripts use `source start_testem.sh` or `npm test`
 
+launching the tests
+-------------------
+
 **DEFAULT** `npm test`
 
 **TESTEM** `source start_testem.sh`
