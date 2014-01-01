@@ -1,1 +1,1 @@
-./node_modules/testem/testem.js
+./node_modules/testem/testem.js $*

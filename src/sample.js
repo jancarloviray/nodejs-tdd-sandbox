@@ -5,4 +5,6 @@ TDDSandbox.prototype.init = function(){
 	return "Welcome to TDD Sandbox!";
 };
 
-TDDSandbox.prototype._privateFunc = function(){	}
+TDDSandbox.prototype._privateFunc = function(){}
+
+if(module && module.exports) module.exports = TDDSandbox;
