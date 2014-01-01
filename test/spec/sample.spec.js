@@ -1,3 +1,5 @@
+/* NOTE: require is not needed for testem; it was placed for flexibility with mocha test framework */
+
 var chai = chai || (require && require('chai')) || {};
 var sinon = sinon || (require && require('sinon')) || {};
 var should = chai.should();
