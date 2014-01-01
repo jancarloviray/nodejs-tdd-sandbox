@@ -1,0 +1,25 @@
+{
+  "name": "tdd-sandbox",
+  "version": "0.0.1",
+  "description": "TDD-sandbox. If you want to practice your TDD without the whole hassle of installing frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jancarloviray/tdd-sandbox.git"
+  },
+  "keywords": [
+    "tdd",
+    "sandbox",
+    "mocha",
+    "javascript"
+  ],
+  "author": "Jan Carlo Viray",
+  "email": "virayjancarlo@yahoo.com",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/jancarloviray/tdd-sandbox/issues"
+  }
+}
