@@ -1,1 +1,1 @@
-mocha server/src/test --watch $*
+mocha server --watch --recursive --reporter spec $*

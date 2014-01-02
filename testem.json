@@ -8,5 +8,6 @@
 	    "client/lib/test/*.js",
 	    "client/src/*.js",
 	    "client/src/test/**/*.js"
+	    "client/**/*.js"
 	]
 }
