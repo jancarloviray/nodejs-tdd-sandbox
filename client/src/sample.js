@@ -1,8 +1,14 @@
-function TDDSandbox(){}
+var Sample = (function(global){
 
-TDDSandbox.prototype.init = function(){
-	this._privateFunc();
-	return "Welcome to TDD Sandbox!";
-};
+  function Sample(){}
 
-TDDSandbox.prototype._privateFunc = function(){}
+  Sample.prototype.init = function(){
+    this._privateFunc();
+    return "Welcome to TDD Sandbox!";
+  };
+
+  Sample.prototype._privateFunc = function(){}
+
+  return Sample;
+
+})(window);
