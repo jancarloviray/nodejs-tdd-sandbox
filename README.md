@@ -14,8 +14,8 @@ launching the tests
 
 **DEFAULT** `npm test`
 
-**TESTEM** `source start_testem.sh`
+**CLIENT** `source test_client.sh`
 
-**MOCHA** `source start_mocha.sh`
+**SERVER** `source test_server.sh`
 
 By [Jan Carlo Viray](http://www.jancarloviray.com)
