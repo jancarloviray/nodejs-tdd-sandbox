@@ -1,10 +1,10 @@
-function TDDSandbox(){}
+function Sample(){}
 
-TDDSandbox.prototype.init = function(){
+Sample.prototype.init = function(){
 	this._privateFunc();
 	return "Welcome to TDD Sandbox!";
 };
 
-TDDSandbox.prototype._privateFunc = function(){}
+Sample.prototype._privateFunc = function(){}
 
-if(module && module.exports) module.exports = TDDSandbox;
+module.exports = Sample;

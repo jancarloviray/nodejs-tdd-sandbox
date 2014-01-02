@@ -1,8 +1,4 @@
-var chai = require('chai');
-var sinon = require('sinon');
 var should = chai.should();
-
-var Sample = require('../sample')
 
 describe('test',function(){
   it('should work',function(){
