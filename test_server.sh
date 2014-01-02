@@ -1,0 +1,1 @@
+mocha server/src $*

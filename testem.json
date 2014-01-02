@@ -1,12 +1,12 @@
 {
 	"framework":"mocha",
 	"src_files":[
-		"vendor/jquery*.js",
-	    "vendor/underscore*.js",
-	    "vendor/backbone*.js",
-	    "vendor/*.js",
-	    "test/lib/*.js",
-	    "src/**/*.js",
-	    "test/**/*.js"
+		"client/lib/vendor/jquery*.js",
+	    "client/lib/vendor/underscore*.js",
+	    "client/lib/vendor/backbone*.js",
+	    "client/lib/vendor/*.js",
+	    "client/lib/test/*.js",
+	    "client/src/*.js",
+	    "client/src/test/**/*.js"
 	]
 }
