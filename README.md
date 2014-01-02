@@ -11,7 +11,7 @@ How to launch the tests?
 Introduction
 ------------
 
-Sandbox for quick TDD practice. Easy. Quick. Painless. Uses Mocha, Chai, Sinon and Testem
+Sandbox for quick TDD practice. Easy. Quick. Painless. Uses Mocha, Chai, Sinon and Testem. *Samples have been included*
 
 Put your source files in `src/`. Test files should go to `test/`.
 
@@ -21,6 +21,7 @@ If you would like to test with mocha, you will need to `require` all depenencies
 
 Future Plans
 ------------
+- Add more samples including mocks, stubs, etc
 - Grunt integration
 - implement Browserify
 - ...
