@@ -4,7 +4,7 @@
   "description": "TDD-sandbox. If you want to practice your TDD without the whole hassle of installing frameworks.",
   "main": "index.js",
   "scripts": {
-    "test": "source start_testem.sh"
+    "test": "source test_server.sh"
   },
   "repository": {
     "type": "git",
