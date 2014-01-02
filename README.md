@@ -12,8 +12,6 @@ If you would like to test with mocha, you will need to `require` all depenencies
 launching the tests
 -------------------
 
-**DEFAULT** `npm test`
-
 **CLIENT** `source test_client.sh`
 
 **SERVER** `source test_server.sh`
