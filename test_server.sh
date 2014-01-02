@@ -1,1 +1,1 @@
-mocha server/src $*
+mocha server/src/test --watch $*
