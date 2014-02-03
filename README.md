@@ -28,3 +28,6 @@ Future Plans
 
 
 By [Jan Carlo Viray](http://www.jancarloviray.com)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jancarloviray/tdd-sandbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
